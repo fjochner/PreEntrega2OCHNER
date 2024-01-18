@@ -1,7 +1,7 @@
 import React from 'react'
 
 const CartWidget = () => {
-  const itemsInCart = 7
+  const itemsInCart = 3
 
   return (
     <div className="cart-widget">
